@@ -1,7 +1,7 @@
 const dbCreds = {
     user: "DeNiMM",
     database: "Denmoapi",
-    password: "123456",
+    password: "<enter_password>",
     hostname: "localhost",
     port: 5432
 }
